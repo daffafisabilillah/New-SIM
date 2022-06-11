@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `e:/ITS/Semester 2/Pemrograman Lanjutan A/SIM AKADEMIK'
+make.exe: Leaving directory `e:/ITS/Semester 2/Pemrograman Lanjutan A/SIM AKADEMIK'
+ 
+make.exe: *** No targets specified and no makefile found.  Stop.
+
